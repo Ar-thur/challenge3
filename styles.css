@@ -8,6 +8,7 @@ body{
 
 h1{
 	font-family: 'Big Shoulders Display', cursive;
+	color: #f2f2f2;
 }
 
 .container{
@@ -17,6 +18,7 @@ h1{
 	width: 60%;
 	justify-content: space-between;
 	padding: 7% 20%;
+	color: #f2f2f2;
 }
 
 .box-0{
